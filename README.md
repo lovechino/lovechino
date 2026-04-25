@@ -4,7 +4,7 @@
 <br>
 <div align="center">
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
-  <a href="https://egirl.ing/](https://portfolio-five-roan-38.vercel.app/" >
+  <a href="https://portfolio-five-roan-38.vercel.app/" >
    <img src="https://lanyard.kyrie25.dev/api/856030692651040798?animatedDecoration=true&hideTimestamp=false&theme=dark&imgBorderRadius=20px&borderRadius=20px&bg=1A1A1A&waveColor=FF0000&waveSpotifyColor=8000FF&gradient=FF0000-8000FF" />
   </a>
     <br>
